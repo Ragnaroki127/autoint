@@ -10,7 +10,7 @@ H = 2
 
 n_layers = 3
 
-epochs = 15
+epochs = 50
 
 batch_size = 1024
 
